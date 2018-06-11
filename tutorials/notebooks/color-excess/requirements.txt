@@ -1,0 +1,6 @@
+numpy
+matplotlib
+astropy
+dust_extinction
+synphot
+IPython
