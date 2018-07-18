@@ -3,4 +3,5 @@ matplotlib
 astropy
 dust_extinction
 synphot
+astropquery
 IPython
