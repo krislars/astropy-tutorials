@@ -2,5 +2,6 @@ numpy
 matplotlib
 astropy
 synphot
+dust_extinction
 astroquery
 IPython
